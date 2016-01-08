@@ -7,7 +7,7 @@ Flow Router using the Reaktor pacakge for routing with React. Also includes Mate
 SCSS.
 
 >This is a work in progress and these the are following packages included:
-1. meteor-base             
+>1. meteor-base             
 2. mobile-experience       
 3. mongo                   
 4. blaze-html-templates    
