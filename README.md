@@ -3,7 +3,8 @@ Simple Meteor-React boiler Plate
 
 #BoilerPlate
 This boilerplate includes all the packes mentioned below. The routing is being done with
-Flow Router using the Reaktor pacakge for routing with React.
+Flow Router using the Reaktor pacakge for routing with React. Also includes Materialize 
+SCSS.
 
 >This is a work in progress and these the are following packages included:
 1. meteor-base             
